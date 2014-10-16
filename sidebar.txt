@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apk:home|Door43 (apk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apk|d43-apk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apk/archive/master.zip|d43-apk.zip]]
+
+**Recent Changes**
+{{changes>ns = apk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apk|Ethnologue data]]
+
